@@ -11,7 +11,7 @@
 ---
 
 <!-- INTRO SECTION -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ![Welcome](https://img.shields.io/badge/WELCOME-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ![Welcome](https://img.shields.io/badge/WELCOME-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 **`[USER]`**: root@github
 
 **`[PRIVILEGES]`**: uid=0(root) gid=0(root) groups=0(root) 
@@ -21,7 +21,7 @@
 **`[FOCUS]`**: Post-Exploitation | Active Directory | Binary Exploitation
 
 > **With Dark,For Light**
-
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- ARSENAL / TECH STACK -->
 | **Offensive Operations** | **Programming Languages** | **Infrastructure & Workflow** |
 | :--- | :--- | :--- |
