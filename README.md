@@ -1,70 +1,34 @@
+
 <!-- HEADER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=USER%3A+id-root;STATUS%3A+Online;SYSTEM%3A+Arch+Linux;TARGET%3A+Binary+Exploitation;MISSION%3A+Secure+The+Unknown" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=USER%3A+id-root;SYSTEM%3A+Arch+Linux;SHELL%3A+Bash%2BNvim;LAB%3A+TryHackMe;Level%3AIntermidiate" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=id-root&style=for-the-badge&color=brightgreen&label=SYSTEM+ACCESS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=id-root&style=for-the-badge&label=SYSTEM+ACCESSES&color=00ff00" alt="Access Counter" />
 </div>
 
 ---
 
 <!-- INTRO SECTION -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **// IDENTITY_VERIFIED**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ![Welcome](https://img.shields.io/badge/WELCOME-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
+**`[USER]`**: root@github
 
-**`[USER]`**: Security Researcher & Educational Technologist  
-**`[BASE]`**: Arch Linux / Neovim  
-**`[FOCUS]`**: Post-Exploitation, Active Directory, Low-Level Systems
+**`[PRIVILEGES]`**: uid=0(root) gid=0(root) groups=0(root) 
 
-> "We do not fear the unknown. We reverse engineer it."
+**`[ARSENAL]`**: Metasploit | Ghidra | Evil-WinRM | Impacket 
 
----
+**`[FOCUS]`**: Post-Exploitation | Active Directory | Binary Exploitation
+
+> **With Dark,For Light**
 
 <!-- ARSENAL / TECH STACK -->
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **// ARSENAL**
-
-| **Offensive Operations** | **Languages** | **Infrastructure** |
+| **Offensive Operations** | **Programming Languages** | **Infrastructure & Workflow** |
 | :--- | :--- | :--- |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=red) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=red) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-FF6B35?style=for-the-badge&logo=python&logoColor=white) ![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-9B59B6?style=for-the-badge&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-FF6600?style=for-the-badge&logo=nmap&logoColor=white) | ![C](https://img.shields.io/badge/C-Elite-00599C?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-Systems-000000?style=for-the-badge&logo=rust&logoColor=orange) ![Python](https://img.shields.io/badge/Python-Elite-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-Master-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim(Lua)-Configured-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Beginner-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-000000?style=for-the-badge&logo=ghidra&logoColor=red) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_App-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-x86__64-111111?style=for-the-badge&logo=assemblyscript&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) |
+
 
 ---
 
-<!-- DYNAMIC STATS (Dark/Hacker Theme) -->
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **// TELEMETRY**
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=id-root&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=id-root&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=id-root&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION PLACEHOLDER -->
-### <img src="https://media.giphy.com/media/LmqMk7RfgFvR1qY7qk/giphy.gif" width="30"> **// ACTIVITY_LOG**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/id-root/id-root/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/id-root/id-root/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/id-root/id-root/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  <sub>End of Line. // <a href="https://github.com/id-root">Return to Root</a></sub>
-</div>
