@@ -10,23 +10,23 @@
 
 ---
 <p align="center">
-  <img src="id-root.gif" width = "500" height= "500" alt="Centered GIF">
+  <img src="id-root.gif" width="400" height="400" alt="id-root GIF">
 </p>
 
-
-
 <!-- INTRO SECTION -->
+
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ![Welcome](https://img.shields.io/badge/WELCOME-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
+
 **`[USER]`**: root@github
 
 **`[PRIVILEGES]`**: uid=0(root) gid=0(root) groups=0(root) 
 
-**`[ARSENAL]`**: Metasploit | Ghidra | Evil-WinRM | Impacket 
+**`[Knowledge Level]`**: Intermidiate
 
 **`[FOCUS]`**: Post-Exploitation | Active Directory | Binary Exploitation
 
 > **With Dark,For Light**
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Arsenal](https://img.shields.io/badge/ARSENAL-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 <!-- ARSENAL / TECH STACK -->
 | **Offensive Operations** | **Programming Languages** | **Infrastructure & Workflow** |
 | :--- | :--- | :--- |
