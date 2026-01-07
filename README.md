@@ -25,7 +25,7 @@
 
 **`[FOCUS]`**: Post-Exploitation | Active Directory | Binary Exploitation
 
-> **With Dark,For Light**
+> **Open your eyes, the truth lies</p>**
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Arsenal](https://img.shields.io/badge/ARSENAL-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 <!-- ARSENAL / TECH STACK -->
 | **Offensive Operations** | **Programming Languages** | **Infrastructure & Workflow** |
