@@ -28,6 +28,7 @@
 > **Open your eyes, the truth lies</p>**
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Arsenal](https://img.shields.io/badge/ARSENAL-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 <!-- ARSENAL / TECH STACK -->
+```
 ╔══  [ $ cat arsenal.txt ]  ══════════════════════════════════════════════╗
 ║ USER: root@archlinux     STATUS: LEARNING                               ║
 ╠═════════════════════════════════════════════════════════════════════════╣
@@ -51,6 +52,9 @@
 ║  0x0B Docker/Container   [████████░░░░░░░░░░░░]   40% :: DEPLOYING      ║
 ║                                                                         ║
 ╚═════════════════════════════════════════════════════════════════════════╝
+
+```
 ---
+
 
 
