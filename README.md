@@ -30,7 +30,7 @@
 <!-- ARSENAL / TECH STACK -->
 ```
 ╔══  [ $ cat arsenal.txt ]  ══════════════════════════════════════════════╗
-║ USER: root@archlinux     STATUS: LEARNING                               ║
+║ USER: root@archlinux     STATUS: LEARNING        AVG: 75%               ║
 ╠═════════════════════════════════════════════════════════════════════════╣
 ║                                                                         ║
 ║  [+] MODULE_01: LANGUAGES                                               ║
