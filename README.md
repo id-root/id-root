@@ -28,12 +28,29 @@
 > **Open your eyes, the truth lies</p>**
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Arsenal](https://img.shields.io/badge/ARSENAL-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 <!-- ARSENAL / TECH STACK -->
-| **Offensive Operations** | **Programming Languages** | **Infrastructure & Workflow** |
-| :--- | :--- | :--- |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-FF6B35?style=for-the-badge&logo=python&logoColor=white) ![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-9B59B6?style=for-the-badge&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-FF6600?style=for-the-badge&logo=nmap&logoColor=white) | ![C](https://img.shields.io/badge/C-Elite-00599C?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-Systems-000000?style=for-the-badge&logo=rust&logoColor=orange) ![Python](https://img.shields.io/badge/Python-Elite-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-Master-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim(Lua)-Configured-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Beginner-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-000000?style=for-the-badge&logo=ghidra&logoColor=red) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_App-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-x86__64-111111?style=for-the-badge&logo=assemblyscript&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) |
-
-
+╔══  [ $ cat arsenal.txt ]  ══════════════════════════════════════════════╗
+║ USER: root@archlinux     STATUS: LEARNING                               ║
+╠═════════════════════════════════════════════════════════════════════════╣
+║                                                                         ║
+║  [+] MODULE_01: LANGUAGES                                               ║
+║  0x00 C                  [█████████████████░░░]  85% ::  COMPILING      ║
+║  0x01 Python             [████████████████████]  100% :: COMPLETED      ║
+║  0x02 Rust               [█████████████████░░░]   85% :: COMPILING      ║
+║  0x03 Assembly (x64)     [█████████████░░░░░░░]   65% :: DEBUGGING      ║
+║                                                                         ║
+║  [+] MODULE_02: OFFENSIVE_OPERATIONS                                    ║
+║  0x04 Metasploit/C2      [████████████████░░░░]   80% :: ARMED          ║
+║  0x05 Network/Nmap       [██████████████░░░░░░]   70% :: SCANNING       ║
+║  0x06 Reverse/Ghidra     [████████████░░░░░░░░]   60% :: ANALYZING      ║
+║  0x07 Web/BurpSuite      [████████████░░░░░░░░]   60% :: PROXYING       ║
+║                                                                         ║
+║  [+] MODULE_03: INFRASTRUCTURE                                          ║
+║  0x08 Linux              [████████████████████]  100% :: MASTERED       ║
+║  0x09 Neovim (Lua)       [████████████████░░░░]   80% :: CONFIGURED     ║
+║  0x0A Bash Scripting     [███████████████░░░░░]   75% :: EXECUTING      ║
+║  0x0B Docker/Container   [████████░░░░░░░░░░░░]   40% :: DEPLOYING      ║
+║                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════╝
 ---
 
 
