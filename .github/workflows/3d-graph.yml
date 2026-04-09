@@ -2,14 +2,17 @@ name: Generate 3D Isometric GitHub Contribution Graph
 
 on:
   schedule:
-    # Runs automatically at 00:00 UTC every day
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to trigger it manually
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    
+    permissions:
+      contents: write 
+      
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
