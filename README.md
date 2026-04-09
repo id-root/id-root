@@ -56,9 +56,9 @@
 
 # <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> ![Activity Architecture](https://img.shields.io/badge/ACTIVITY_ARCHITECTURE-000000?style=for-the-badge&logo=github&logoColor=00FF00)
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Isometric Commit Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Commit Graph" />
 </div>
----
+
 
 
 
