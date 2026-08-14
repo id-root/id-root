@@ -11,12 +11,13 @@
   <img src="https://img.shields.io/badge/-Bash-0B0F0D?style=flat-square&logo=gnubash&logoColor=8FBF8A&labelColor=0B0F0D" alt="Bash">
   <img src="https://img.shields.io/badge/-Docker-0B0F0D?style=flat-square&logo=docker&logoColor=8FBF8A&labelColor=0B0F0D" alt="Docker">
 </p>
-
-<img src="root-agi.gif" alt="Eva Logo" align="left" width="350">
+<p align="center">
+<img src="root-agi.gif"  align="center" width="500">
+</p>
 
 ### `$ cat about.md`
 
-Arch Linux, Neovim, and a shell prompt that rarely closes. Most of my time goes into post-exploitation, Active Directory, and binary exploitation — working through [TryHackMe](https://tryhackme.com) at an intermediate level — with the rest spent building tools that stay in the terminal, not leave it.
+Linux, Neovim, and a shell prompt that rarely closes. Most of my time goes into post-exploitation, Active Directory, and binary exploitation.Love to work with Artificial Intelligence.
 
 <br clear="left" />
 
