@@ -1,0 +1,70 @@
+<svg viewBox="0 0 820 622" width="820" height="622" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill proficiency chart">
+  <rect x="0" y="0" width="820" height="622" rx="14" fill="#0B0F0D" stroke="#20302A" stroke-width="1.5"/>
+  
+  <text x="28" y="48" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" letter-spacing="2.5" fill="#E8A54B" font-weight="700">LANGUAGES</text>
+  <line x1="28" y1="58" x2="792" y2="58" stroke="#20302A" stroke-width="1"/>
+  <text x="28" y="89" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">C</text>
+  <rect x="246" y="78" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="78" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="323" dur="0.7s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="89" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">85%</text>
+  <text x="792" y="89" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: compiling</text>
+  <text x="28" y="123" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Python</text>
+  <rect x="246" y="112" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="112" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="380" dur="0.7s" begin="0.06s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="123" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">100%</text>
+  <text x="792" y="123" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: shipped</text>
+  <text x="28" y="157" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Rust</text>
+  <rect x="246" y="146" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="146" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="323" dur="0.7s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="157" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">85%</text>
+  <text x="792" y="157" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: compiling</text>
+  <text x="28" y="191" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Assembly (x64)</text>
+  <rect x="246" y="180" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="180" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="247" dur="0.7s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="191" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">65%</text>
+  <text x="792" y="191" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: debugging</text>
+  <text x="28" y="238" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" letter-spacing="2.5" fill="#E8A54B" font-weight="700">OFFENSIVE OPS</text>
+  <line x1="28" y1="248" x2="792" y2="248" stroke="#20302A" stroke-width="1"/>
+  <text x="28" y="279" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Metasploit / C2</text>
+  <rect x="246" y="268" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="268" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="304" dur="0.7s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="279" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">80%</text>
+  <text x="792" y="279" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: armed</text>
+  <text x="28" y="313" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Nmap</text>
+  <rect x="246" y="302" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="302" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="266" dur="0.7s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="313" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">70%</text>
+  <text x="792" y="313" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: scanning</text>
+  <text x="28" y="347" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Ghidra</text>
+  <rect x="246" y="336" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="336" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="228" dur="0.7s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="347" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">60%</text>
+  <text x="792" y="347" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: analyzing</text>
+  <text x="28" y="381" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Burp Suite</text>
+  <rect x="246" y="370" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="370" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="228" dur="0.7s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="381" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">60%</text>
+  <text x="792" y="381" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: proxying</text>
+  <text x="28" y="428" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" letter-spacing="2.5" fill="#E8A54B" font-weight="700">INFRASTRUCTURE</text>
+  <line x1="28" y1="438" x2="792" y2="438" stroke="#20302A" stroke-width="1"/>
+  <text x="28" y="469" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Linux</text>
+  <rect x="246" y="458" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="458" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="380" dur="0.7s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="469" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">100%</text>
+  <text x="792" y="469" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: mastered</text>
+  <text x="28" y="503" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Neovim (Lua)</text>
+  <rect x="246" y="492" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="492" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="304" dur="0.7s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="503" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">80%</text>
+  <text x="792" y="503" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: configured</text>
+  <text x="28" y="537" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Bash</text>
+  <rect x="246" y="526" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="526" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="285" dur="0.7s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="537" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">75%</text>
+  <text x="792" y="537" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: executing</text>
+  <text x="28" y="571" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#D9E2DB">Docker</text>
+  <rect x="246" y="560" width="380" height="8" rx="4" fill="#182420"/>
+  <rect x="246" y="560" height="8" rx="4" fill="#8FBF8A"><animate attributeName="width" from="0" to="152" dur="0.7s" begin="0.66s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="674" y="571" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" fill="#65786C" text-anchor="end">40%</text>
+  <text x="792" y="571" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#65786C" text-anchor="end" font-style="italic">:: deploying</text>
+</svg>
