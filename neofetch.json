@@ -3,8 +3,8 @@
   "coloredImage": true,
   "removeBackground": true,
   "imageScale": 1,
-  "backgroundColor": "#ffffff, #202124",
-  "separatorColor": "#dadce0, #5f6368",
+  "backgroundColor": "#ffffff, #1e1f22",
+  "separatorColor": "#5f6368, #80868b",
   "sections": [
     {
       "title": "{{username}}@rootagi-box",
@@ -28,8 +28,8 @@
         "line": "#ea4335, #ea4335"
       },
       "fields": [
-        { "key": "Actively Learning", "value": "Reverse Engineering, OS, Exploit", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" },
-        { "key": "Interests", "value": "Artificial Intillegence, Awaiting AGI", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" },
+        { "key": "Learning", "value": "Reverse Engineering, OS, Exploit Dev", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" },
+        { "key": "Interests", "value": "Artificial intelligence, Awaiting AGI", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" },
         { "key": "Tooling", "value": "GDB/GEF, Ghidra, Radare2, IDA Pro, Cargo", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" },
         { "key": "Top Languages", "value": "{{languages}}", "keyColor": "#d93025, #f28b82", "valueColor": "#202124, #e8eaed" }
       ]
