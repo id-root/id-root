@@ -1,5 +1,5 @@
 {
-  "image": "https://raw.githubusercontent.com/rootagi/rootagi/main/logo.png",
+  "image": "https://raw.githubusercontent.com/rootagi/rootagi/main/assets/logo.png",
   "coloredImage": true,
   "removeBackground": true,
   "imageScale": 1,
@@ -17,6 +17,7 @@
         { "key": "Focus", "value": "Offensive Security & Binary Exploitation", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Core Stack", "value": "Rust, C, x86_64 ASM, Python", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "OS / Arch", "value": "Linux / x86_64", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Editor", "value": "LazyVim, Cursor", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
     },
@@ -28,7 +29,7 @@
       },
       "fields": [
         { "key": "Specialization", "value": "Reverse Engineering, Pwn, Exploit Dev", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
-        { "key": "Interests", "value": "AI/ML Systems, Awaiting AGI", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Interests", "value": "Artificial Intillegence, Awaiting AGI", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Tooling", "value": "GDB/GEF, Ghidra, Radare2, IDA Pro, Cargo", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Top Languages", "value": "{{languages}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
@@ -41,7 +42,8 @@
       },
       "fields": [
         { "key": "Email", "value": "rootagi@duck.com", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
-        { "key": "GitHub", "value": "https://github.com/{{username}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
+        { "key": "GitHub", "value": "https://github.com/{{username}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "X / Twitter", "value": "https://x.com/rootagi", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
     }
   ],
@@ -61,6 +63,7 @@
         "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       },
       {
+        "left": { "key": "Issues", "value": "{{issues}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         "right": { "key": "Gists", "value": "{{gists}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       },
       {
