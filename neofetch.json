@@ -1,44 +1,71 @@
 {
+  "image": "https://raw.githubusercontent.com/rootagi/rootagi/main/logo.png",
+  "coloredImage": true,
+  "removeBackground": true,
+  "imageScale": 1,
+  "backgroundColor": "#18140e, #0d0c0b",
+  "separatorColor": "#d97706, #f59e0b",
   "sections": [
     {
-      "title": "{{username}}@github",
+      "title": "{{username}}@rootagi-box",
+      "titleColor": {
+        "text": "#d97706, #fbbf24",
+        "line": "#92400e, #d97706"
+      },
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Focus", "value": "Offensive Security & Binary Exploitation" },
-        { "key": "Core Stack", "value": "Rust, C, Assembly, Python" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        { "key": "Handle", "value": "{{username}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Focus", "value": "Offensive Security & Binary Exploitation", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Core Stack", "value": "Rust, C, x86_64 ASM, Python", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "OS / Arch", "value": "Linux / x86_64", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
     },
     {
-      "title": "- Security & Research",
+      "title": "- Research & Tooling",
+      "titleColor": {
+        "text": "#d97706, #fbbf24",
+        "line": "#92400e, #d97706"
+      },
       "fields": [
-        { "key": "Specialization", "value": "Reverse Engineering, Pwn, Exploit Dev" },
-        { "key": "Interests", "value": "AI/ML Systems, Awaiting AGI" },
-        { "key": "Tooling", "value": "GDB, Ghidra, Radare2, IDA, Cargo" }
+        { "key": "Specialization", "value": "Reverse Engineering, Pwn, Exploit Dev", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Interests", "value": "AI/ML Systems, Awaiting AGI", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Tooling", "value": "GDB/GEF, Ghidra, Radare2, IDA Pro, Cargo", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Top Languages", "value": "{{languages}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
     },
     {
       "title": "- Contact",
+      "titleColor": {
+        "text": "#d97706, #fbbf24",
+        "line": "#92400e, #d97706"
+      },
       "fields": [
-        { "key": "Email", "value": "rootagi@duck.com" },
-        { "key": "GitHub", "value": "https://github.com/{{username}}" }
+        { "key": "Email", "value": "rootagi@duck.com", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "GitHub", "value": "https://github.com/{{username}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Telemetry",
+    "titleColor": {
+      "text": "#d97706, #fbbf24",
+      "line": "#92400e, #d97706"
+    },
     "rows": [
       {
-        "left": { "key": "Repos", "value": "{{repos}}" },
-        "right": { "key": "Stars", "value": "{{stars}}" }
+        "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       },
       {
-        "left": { "key": "Commits", "value": "{{commits}}" },
-        "right": { "key": "Forks", "value": "{{forks}}" }
+        "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       },
       {
-        "left": { "key": "Followers", "value": "{{followers}}" },
-        "right": { "key": "Following", "value": "{{following}}" }
+        "right": { "key": "Gists", "value": "{{gists}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
+      },
+      {
+        "left": { "key": "Followers", "value": "{{followers}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        "right": { "key": "Following", "value": "{{following}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       },
       "loc"
     ]
