@@ -29,7 +29,7 @@
       },
       "fields": [
         { "key": "Specialization", "value": "Reverse Engineering, Pwn, Exploit Dev", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
-        { "key": "Interests", "value": "Artificial Intillegence, Awaiting AGI", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
+        { "key": "Interests", "value": "AI/ML Systems, Awaiting AGI", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Tooling", "value": "GDB/GEF, Ghidra, Radare2, IDA Pro, Cargo", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" },
         { "key": "Top Languages", "value": "{{languages}}", "keyColor": "#d97706, #f59e0b", "valueColor": "#fef3c7, #fde68a" }
       ]
