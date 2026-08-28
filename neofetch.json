@@ -1,0 +1,46 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Focus", "value": "Offensive Security & Binary Exploitation" },
+        { "key": "Core Stack", "value": "Rust, C, Assembly, Python" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "- Security & Research",
+      "fields": [
+        { "key": "Specialization", "value": "Reverse Engineering, Pwn, Exploit Dev" },
+        { "key": "Interests", "value": "AI/ML Systems, Awaiting AGI" },
+        { "key": "Tooling", "value": "GDB, Ghidra, Radare2, IDA, Cargo" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "rootagi@duck.com" },
+        { "key": "GitHub", "value": "https://github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Telemetry",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Forks", "value": "{{forks}}" }
+      },
+      {
+        "left": { "key": "Followers", "value": "{{followers}}" },
+        "right": { "key": "Following", "value": "{{following}}" }
+      },
+      "loc"
+    ]
+  }
+}
